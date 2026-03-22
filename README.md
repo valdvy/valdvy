@@ -28,7 +28,7 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 <!-- STACK -->
 ## `> ls ~/skills`
 
-### 🖥️ Languages
+### Languages
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 
 </div>
 
-### 📦 Frameworks & Tools
+### Frameworks & Tools
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 
 </div>
 
-### 🔒 Cybersecurity
+### Cybersecurity
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 
 </div>
 
-### ⚙️ Hardware & Embedded
+### Hardware & Embedded
 
 <div align="center">
 
