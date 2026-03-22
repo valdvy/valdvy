@@ -1,16 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██╗      ██████╗ ██╗   ██╗██╗   ██╗
-██║   ██║██╔══██╗██║      ██╔══██╗██║   ██║╚██╗ ██╔╝
-██║   ██║███████║██║      ██║  ██║██║   ██║ ╚████╔╝ 
-╚██╗ ██╔╝██╔══██║██║      ██║  ██║╚██╗ ██╔╝  ╚██╔╝  
- ╚████╔╝ ██║  ██║███████╗ ██████╔╝ ╚████╔╝   ██║   
-  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝   ╚═══╝    ╚═╝   
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Student+in+Computer+Science;Cybersecurity+%26+Electronics+Enthusiast;Polyglot+Programmer;Building+my+own+OS+%F0%9F%92%BE)](https://git.io/typing-svg)
+[![rickroll](https://media.giphy.com/media/Vuw9m5wXviFIQ/giphy.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 </div>
 
@@ -113,3 +104,57 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 ```
 
 ---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+[ valdvy@machine ~ ] $ _
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=valdvy&color=00ff41&style=flat-square&label=VISITORS)
+
+</div>
+</div>
+
+### Frameworks & Tools
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+</div>
+
+### Cybersecurity
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-FF0000?style=for-the-badge&logo=databricks&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=white)
+
+</div>
+
+### Hardware & Embedded
+
+<div align="center">
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Bruce](https://img.shields.io/badge/Bruce_Device-222222?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![Electronics](https://img.shields.io/badge/Electronics-FF6B35?style=for-the-badge&logo=circuitverse&logoColor=white)
+
+</div>
+
