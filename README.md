@@ -113,14 +113,3 @@ Note     : Polyglot programmer. I speak to machines in many languages.
 ```
 
 ---
-
-<!-- FOOTER -->
-<div align="center">
-
-```
-[ valdvy@machine ~ ] $ _
-```
-
-![Profile views](https://komarev.com/ghpvc/?username=valdvy&color=00ff41&style=flat-square&label=VISITORS)
-
-</div>
