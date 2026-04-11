@@ -19,7 +19,7 @@ Name     : valdvy
 Status   : CS Student | Cyber & Electronics addict
 OS       : Kali Linux / Debian / macOS (primary)
 Hardware : STM32 · Bruce
-Goal     : Build my own OS — inspired by Terry Davis
+Goal     : Learn everything
 Note     : Polyglot programmer. I speak to machines in many languages.
 ```
 
